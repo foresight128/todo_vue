@@ -52,4 +52,5 @@ Vue를 이용하여 todo_list를 제작하였습니다.
 
 ## 완성페이지
 
+![todo_vue](https://user-images.githubusercontent.com/89468282/137448828-0299c281-af73-475f-af63-630baaab27a9.png)
 
